@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset= "UTF-8"/>
+		<title> Sistema de Informacao 1 </title>
+		
+
+	</head>
+		
+	<body>
+		<h1> Sistema de Informacao 1 (SI1) </h1>
+		<h3> O que é SI1 ? </h3>
+		<dd> Sistema de Informação é uma expressão usada para descrever sistemas automatizados e manuais. Esse sistema organiza, processa e dissemina dados, transformando-os em informação útil para o usuário. </dd>
+
+		<h3> Por que Cursar SI1 ? </h3>
+		<dd> No curso de SI1, você irá aprender inúmeras feramentas que fará com que voce seja capaz de planejar e organizar projetos, configurar sistemas, recuperar informações dentre outras.   </dd>
+		<br/>
+
+		<a href="formulario.html"> Me convenci	</a>
+	</body>
+
+
+</html>
+
+
